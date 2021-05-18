@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @leafvert
-- 💪🏼 I’m experienced in web2&3 development & project management, business development.
-- 👀 I’m interested in blockchain, DeFi and digital assets.
-- 🌱 I’m currently learning and strenthening my solidity, python, js skills...
-- 💞️ I’m looking to collaborate on DeFi & ethereum based projects
-- 📫 How to reach me ... lucyxliu.com/contact
+- 👋 Hi, my name is Lucy
+- 💪🏼 I’m experienced in web 2 & 3 development & product management.
+- 👀 Fascinated about blockchain, DeFi and digital assets.
+- 🌱 I’m currently strenthening my solidity, python, js skills...
+- 💞️ I’m looking to collaborate on DeFi & blockchain based projects
+- 📫 Contact me at: lucyxliu.com/contact
 
 <!---
 leafvert/leafvert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
