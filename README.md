@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Lucy
-- 💪🏼 I’m experienced in web 1 - 3 front-end & full stack development, and product management.
-- 👀 I'm learning & building in blockchain, DeFi with js, React, Node, Solidity, Python
+- 💪🏼 I’m experienced in web 1 - 3 front-end to full stack development and product management.
 - 🌱 I eat plants.
-- 💞️ Looking to collaborate on DeFi & blockchain based projects? Hit me up
+- 💞️ I'm a blockchain project/company incubator, if you're looking for collaboration and resources.
 - 📫 Contact me at: lucyxliu.com/contact
 
 <!---
