@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lucy
-- 🌱 I'm a blockchain dev evangelist and incubator, if you're looking for collaboration and resources.
+- 🌱 I'm web3 ecosystem connector
 - 💪🏼 I’m experienced in web 1-3 front-end to full stack development and product management.
 - 📫 Contact me at: lucyxliu.com/contact
 
