@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lucy
-- 💪🏼 I have 15+ years experience in web 1-3 front-end to full stack development and product management.
+- 💪🏼 I have 15+ years experience in web 1-3 front-end development and product & project management.
 - 📫 Contact me at: lucyxliu.com/contact
 
 <!---
