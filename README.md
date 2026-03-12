@@ -1,11 +1,6 @@
 - 👋 Hi, my name is Lucy
-- 💪🏼 Vibe coder with 15+ years experience in front-end development, data visualization, and product / project management.
+- 👓 Vibe coder with 15+ years experience in front-end development, data visualization, and product / project management.
 - 📫 Contact me at: lucyxliu.com/contact
-
-<!---
-leafvert/leafvert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 #### Languages
 
