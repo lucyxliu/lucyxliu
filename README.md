@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lucy
-- 👓 Vibe coder with 15+ years experience in front-end development, data visualization, and product / project management.
+- 👓 Current vibe coder with 15+ years experience in front-end development, data visualization, and product / project management.
 - 📫 Contact me at: lucyxliu.com/contact
 
 #### Languages
